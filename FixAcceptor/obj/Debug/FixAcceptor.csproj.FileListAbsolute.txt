@@ -1,0 +1,15 @@
+C:\Users\BC4320\Source\Repos\FixAcceptor\FixAcceptor\bin\Debug\FixAcceptor.exe.config
+C:\Users\BC4320\Source\Repos\FixAcceptor\FixAcceptor\bin\Debug\fixconfig.ini
+C:\Users\BC4320\Source\Repos\FixAcceptor\FixAcceptor\bin\Debug\FixAcceptor.exe
+C:\Users\BC4320\Source\Repos\FixAcceptor\FixAcceptor\bin\Debug\FixAcceptor.pdb
+C:\Users\BC4320\Source\Repos\FixAcceptor\FixAcceptor\bin\Debug\QuickFix.dll
+C:\Users\BC4320\Source\Repos\FixAcceptor\FixAcceptor\bin\Debug\Serilog.dll
+C:\Users\BC4320\Source\Repos\FixAcceptor\FixAcceptor\bin\Debug\Serilog.Sinks.Console.dll
+C:\Users\BC4320\Source\Repos\FixAcceptor\FixAcceptor\bin\Debug\Serilog.Sinks.File.dll
+C:\Users\BC4320\Source\Repos\FixAcceptor\FixAcceptor\bin\Debug\Serilog.xml
+C:\Users\BC4320\Source\Repos\FixAcceptor\FixAcceptor\bin\Debug\Serilog.Sinks.Console.xml
+C:\Users\BC4320\Source\Repos\FixAcceptor\FixAcceptor\bin\Debug\Serilog.Sinks.File.xml
+C:\Users\BC4320\Source\Repos\FixAcceptor\FixAcceptor\obj\Debug\FixAcceptor.csprojResolveAssemblyReference.cache
+C:\Users\BC4320\Source\Repos\FixAcceptor\FixAcceptor\obj\Debug\FixAcceptor.exe
+C:\Users\BC4320\Source\Repos\FixAcceptor\FixAcceptor\obj\Debug\FixAcceptor.pdb
+C:\Users\BC4320\Source\Repos\FixAcceptor\FixAcceptor\bin\Debug\QuickFix.pdb

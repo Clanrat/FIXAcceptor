@@ -1,0 +1,115 @@
+20171016-08:58:22.969 : Created session
+20171016-08:58:43.940 : FIXT.1.1:GENIUM_TEST->CODDB Socket Reader 56790164 accepting session FIXT.1.1:GENIUM_TEST->CODDB from 127.0.0.1:63562
+20171016-08:58:43.941 : FIXT.1.1:GENIUM_TEST->CODDB Acceptor heartbeat set to 0 seconds
+20171016-08:58:43.968 : Received logon
+20171016-08:58:43.980 : Responding to logon request
+20171016-08:58:44.433 : Message 3 Rejected: Required tag missing (Field=573)
+20171016-08:58:44.478 : Message 6 Rejected: Required tag missing (Field=20202)
+20171016-08:58:44.499 : Message 7 Rejected: Required tag missing (Field=20202)
+20171016-08:58:49.663 : Session FIXT.1.1:GENIUM_TEST->CODDB disconnecting: Socket exception (127.0.0.1:63562): An existing connection was forcibly closed by the remote host
+20171017-12:38:22.666 : Created session
+20171017-12:39:17.245 : FIXT.1.1:GENIUM_TEST->CODDB Socket Reader 27050927 accepting session FIXT.1.1:GENIUM_TEST->CODDB from 127.0.0.1:11123
+20171017-12:39:17.245 : FIXT.1.1:GENIUM_TEST->CODDB Acceptor heartbeat set to 0 seconds
+20171017-12:39:17.273 : Received logon
+20171017-12:39:17.287 : Responding to logon request
+20171017-12:40:29.314 : Sent test request TEST
+20171017-12:41:41.393 : Session FIXT.1.1:GENIUM_TEST->CODDB disconnecting: Timed out waiting for heartbeat
+20171017-12:46:01.557 : FIXT.1.1:GENIUM_TEST->CODDB Socket Reader 3405752 accepting session FIXT.1.1:GENIUM_TEST->CODDB from 127.0.0.1:12057
+20171017-12:46:01.557 : FIXT.1.1:GENIUM_TEST->CODDB Acceptor heartbeat set to 60 seconds
+20171017-12:46:01.717 : Verify failed: MsgSeqNum too low, expecting 2 but received 1
+20171017-12:46:01.718 : Session FIXT.1.1:GENIUM_TEST->CODDB disconnecting: Verify failed: MsgSeqNum too low, expecting 2 but received 1
+20171017-12:46:02.546 : FIXT.1.1:GENIUM_TEST->CODDB Socket Reader 12954770 accepting session FIXT.1.1:GENIUM_TEST->CODDB from 127.0.0.1:12060
+20171017-12:46:02.546 : FIXT.1.1:GENIUM_TEST->CODDB Acceptor heartbeat set to 60 seconds
+20171017-12:46:02.547 : Received logon
+20171017-12:46:02.560 : Responding to logon request
+20171017-12:46:02.560 : MsgSeqNum too high, expecting 2 but received 3
+20171017-12:46:02.586 : Sent ResendRequest FROM: 2 TO: 0
+20171017-12:46:02.605 : Got resend request from 2 to 0
+20171017-12:46:02.629 : Sent SequenceReset TO: 7
+20171017-12:46:04.902 : Message 5 Rejected: Group 296's first entry does not start with delimiter 302 (Field=296)
+20171017-12:46:05.097 : Message 6 Rejected: Required tag missing (Field=20202)
+20171017-12:46:05.101 : MsgSeqNum too high, expecting 2 but received 7
+20171017-12:46:05.101 : Already sent ResendRequest FROM: 2 TO: 0.  Not sending another.
+20171017-12:46:05.102 : MsgSeqNum too high, expecting 2 but received 8
+20171017-12:46:05.102 : Already sent ResendRequest FROM: 2 TO: 0.  Not sending another.
+20171017-12:46:05.118 : Message 9 Rejected: Required tag missing (Field=20202)
+20171017-12:46:05.144 : Message 10 Rejected: Required tag missing (Field=20202)
+20171017-12:47:15.162 : Sent test request TEST
+20171017-12:48:27.169 : Session FIXT.1.1:GENIUM_TEST->CODDB disconnecting: Timed out waiting for heartbeat
+20171018-07:56:35.708 : Created session
+20171018-07:59:52.300 : FIXT.1.1:GENIUM_TEST->CODDB Socket Reader 44200505 accepting session FIXT.1.1:GENIUM_TEST->CODDB from 127.0.0.1:30617
+20171018-07:59:52.301 : FIXT.1.1:GENIUM_TEST->CODDB Acceptor heartbeat set to 0 seconds
+20171018-07:59:52.331 : Received logon
+20171018-07:59:52.344 : Responding to logon request
+20171018-07:59:52.674 : Message 2 Rejected: Group 296's first entry does not start with delimiter 302 (Field=296)
+20171018-07:59:52.920 : Message 3 Rejected: Required tag missing (Field=573)
+20171018-07:59:52.967 : Message 6 Rejected: Required tag missing (Field=20202)
+20171018-07:59:53.007 : Message 7 Rejected: Required tag missing (Field=20202)
+20171018-08:00:12.940 : Session FIXT.1.1:GENIUM_TEST->CODDB disconnecting: Socket exception (127.0.0.1:30617): An existing connection was forcibly closed by the remote host
+20171018-08:00:20.000 : FIXT.1.1:GENIUM_TEST->CODDB Socket Reader 38005127 accepting session FIXT.1.1:GENIUM_TEST->CODDB from 127.0.0.1:30790
+20171018-08:00:20.000 : FIXT.1.1:GENIUM_TEST->CODDB Acceptor heartbeat set to 60 seconds
+20171018-08:00:20.058 : Verify failed: MsgSeqNum too low, expecting 8 but received 1
+20171018-08:00:20.058 : Session FIXT.1.1:GENIUM_TEST->CODDB disconnecting: Verify failed: MsgSeqNum too low, expecting 8 but received 1
+20171018-08:00:20.986 : FIXT.1.1:GENIUM_TEST->CODDB Socket Reader 59457177 accepting session FIXT.1.1:GENIUM_TEST->CODDB from 127.0.0.1:30806
+20171018-08:00:20.986 : FIXT.1.1:GENIUM_TEST->CODDB Acceptor heartbeat set to 60 seconds
+20171018-08:00:21.004 : Verify failed: MsgSeqNum too low, expecting 8 but received 3
+20171018-08:00:21.004 : Session FIXT.1.1:GENIUM_TEST->CODDB disconnecting: Verify failed: MsgSeqNum too low, expecting 8 but received 3
+20171018-08:00:30.991 : FIXT.1.1:GENIUM_TEST->CODDB Socket Reader 49760870 accepting session FIXT.1.1:GENIUM_TEST->CODDB from 127.0.0.1:30851
+20171018-08:00:30.991 : FIXT.1.1:GENIUM_TEST->CODDB Acceptor heartbeat set to 60 seconds
+20171018-08:00:31.010 : Verify failed: MsgSeqNum too low, expecting 8 but received 5
+20171018-08:00:31.010 : Session FIXT.1.1:GENIUM_TEST->CODDB disconnecting: Verify failed: MsgSeqNum too low, expecting 8 but received 5
+20171018-08:00:40.991 : FIXT.1.1:GENIUM_TEST->CODDB Socket Reader 45076579 accepting session FIXT.1.1:GENIUM_TEST->CODDB from 127.0.0.1:30878
+20171018-08:00:40.991 : FIXT.1.1:GENIUM_TEST->CODDB Acceptor heartbeat set to 60 seconds
+20171018-08:00:41.014 : Verify failed: MsgSeqNum too low, expecting 8 but received 7
+20171018-08:00:41.014 : Session FIXT.1.1:GENIUM_TEST->CODDB disconnecting: Verify failed: MsgSeqNum too low, expecting 8 but received 7
+20171018-08:00:50.995 : FIXT.1.1:GENIUM_TEST->CODDB Socket Reader 32138733 accepting session FIXT.1.1:GENIUM_TEST->CODDB from 127.0.0.1:30887
+20171018-08:00:50.995 : FIXT.1.1:GENIUM_TEST->CODDB Acceptor heartbeat set to 60 seconds
+20171018-08:00:50.998 : Received logon
+20171018-08:00:51.001 : Responding to logon request
+20171018-08:00:51.001 : MsgSeqNum too high, expecting 8 but received 9
+20171018-08:00:51.005 : Sent ResendRequest FROM: 8 TO: 0
+20171018-08:00:51.019 : Got resend request from 5 to 0
+20171018-08:00:51.026 : Sent SequenceReset TO: 12
+20171018-08:00:51.047 : Message 11 Rejected: Group 296's first entry does not start with delimiter 302 (Field=296)
+20171018-08:00:51.070 : Message 12 Rejected: Required tag missing (Field=573)
+20171018-08:00:51.073 : MsgSeqNum too high, expecting 8 but received 13
+20171018-08:00:51.073 : Already sent ResendRequest FROM: 8 TO: 0.  Not sending another.
+20171018-08:00:51.073 : MsgSeqNum too high, expecting 8 but received 14
+20171018-08:00:51.073 : Already sent ResendRequest FROM: 8 TO: 0.  Not sending another.
+20171018-08:00:51.089 : Message 15 Rejected: Required tag missing (Field=20202)
+20171018-08:00:51.113 : Message 16 Rejected: Required tag missing (Field=20202)
+20171018-08:02:01.837 : Session FIXT.1.1:GENIUM_TEST->CODDB disconnecting: Socket exception (127.0.0.1:30887): An existing connection was forcibly closed by the remote host
+20171018-08:02:09.705 : FIXT.1.1:GENIUM_TEST->CODDB Socket Reader 12368462 accepting session FIXT.1.1:GENIUM_TEST->CODDB from 127.0.0.1:31044
+20171018-08:02:09.705 : FIXT.1.1:GENIUM_TEST->CODDB Acceptor heartbeat set to 60 seconds
+20171018-08:02:09.731 : Verify failed: MsgSeqNum too low, expecting 8 but received 1
+20171018-08:02:09.731 : Session FIXT.1.1:GENIUM_TEST->CODDB disconnecting: Verify failed: MsgSeqNum too low, expecting 8 but received 1
+20171018-08:02:10.692 : FIXT.1.1:GENIUM_TEST->CODDB Socket Reader 51592900 accepting session FIXT.1.1:GENIUM_TEST->CODDB from 127.0.0.1:31056
+20171018-08:02:10.692 : FIXT.1.1:GENIUM_TEST->CODDB Acceptor heartbeat set to 60 seconds
+20171018-08:02:10.712 : Verify failed: MsgSeqNum too low, expecting 8 but received 3
+20171018-08:02:10.712 : Session FIXT.1.1:GENIUM_TEST->CODDB disconnecting: Verify failed: MsgSeqNum too low, expecting 8 but received 3
+20171018-08:02:20.698 : FIXT.1.1:GENIUM_TEST->CODDB Socket Reader 35749065 accepting session FIXT.1.1:GENIUM_TEST->CODDB from 127.0.0.1:31070
+20171018-08:02:20.698 : FIXT.1.1:GENIUM_TEST->CODDB Acceptor heartbeat set to 60 seconds
+20171018-08:02:20.724 : Verify failed: MsgSeqNum too low, expecting 8 but received 5
+20171018-08:02:20.724 : Session FIXT.1.1:GENIUM_TEST->CODDB disconnecting: Verify failed: MsgSeqNum too low, expecting 8 but received 5
+20171018-08:02:30.699 : FIXT.1.1:GENIUM_TEST->CODDB Socket Reader 53144917 accepting session FIXT.1.1:GENIUM_TEST->CODDB from 127.0.0.1:31075
+20171018-08:02:30.699 : FIXT.1.1:GENIUM_TEST->CODDB Acceptor heartbeat set to 60 seconds
+20171018-08:02:30.725 : Verify failed: MsgSeqNum too low, expecting 8 but received 7
+20171018-08:02:30.725 : Session FIXT.1.1:GENIUM_TEST->CODDB disconnecting: Verify failed: MsgSeqNum too low, expecting 8 but received 7
+20171018-08:02:40.706 : FIXT.1.1:GENIUM_TEST->CODDB Socket Reader 662246 accepting session FIXT.1.1:GENIUM_TEST->CODDB from 127.0.0.1:31096
+20171018-08:02:40.706 : FIXT.1.1:GENIUM_TEST->CODDB Acceptor heartbeat set to 60 seconds
+20171018-08:02:40.708 : Received logon
+20171018-08:02:40.711 : Responding to logon request
+20171018-08:02:40.711 : MsgSeqNum too high, expecting 8 but received 9
+20171018-08:02:40.718 : Sent ResendRequest FROM: 8 TO: 0
+20171018-08:02:40.722 : Got resend request from 5 to 0
+20171018-08:02:40.726 : Sent SequenceReset TO: 23
+20171018-08:02:40.746 : Message 11 Rejected: Group 296's first entry does not start with delimiter 302 (Field=296)
+20171018-08:02:40.767 : Message 12 Rejected: Required tag missing (Field=573)
+20171018-08:02:40.770 : MsgSeqNum too high, expecting 8 but received 13
+20171018-08:02:40.770 : Already sent ResendRequest FROM: 8 TO: 0.  Not sending another.
+20171018-08:02:40.770 : MsgSeqNum too high, expecting 8 but received 14
+20171018-08:02:40.770 : Already sent ResendRequest FROM: 8 TO: 0.  Not sending another.
+20171018-08:02:40.791 : Message 15 Rejected: Required tag missing (Field=20202)
+20171018-08:02:40.809 : Message 16 Rejected: Required tag missing (Field=20202)
+20171018-08:03:52.835 : Sent test request TEST
+20171018-08:05:04.837 : Session FIXT.1.1:GENIUM_TEST->CODDB disconnecting: Timed out waiting for heartbeat

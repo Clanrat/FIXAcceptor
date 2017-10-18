@@ -1,0 +1,5 @@
+20171018-08:00:50.990 : connected
+20171018-08:02:01.837 : SocketReader Error: Socket exception (127.0.0.1:30887): An existing connection was forcibly closed by the remote host
+20171018-08:02:01.837 : shutdown requested: Disconnected
+20171018-08:02:01.872 : shutdown requested: An existing connection was forcibly closed by the remote host
+20171018-08:02:01.872 : shutdown
