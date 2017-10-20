@@ -66,7 +66,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\Downloads\quickfixn-master\quickfixn-master\QuickFIXn\QuickFix.csproj">
+    <ProjectReference Include="..\QuickFIXn\QuickFix.csproj">
       <Project>{d67079da-6c49-48b2-93ab-1c3e879f5a0b}</Project>
       <Name>QuickFix</Name>
     </ProjectReference>
